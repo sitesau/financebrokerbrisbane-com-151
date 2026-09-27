@@ -1,0 +1,19 @@
+{
+  "wheel_id": 302,
+  "structure": "umbrella",
+  "slug": "financebrokerbrisbane-com-151",
+  "project": "home-loan-brokers-brisbane-3bda19077c7429d075639fe86dcc5e7dea03",
+  "parent_t1_ref": "financebrokerbrisbane.com-007",
+  "node_role": "buffer",
+  "money_target": "financebrokerbrisbane.com.au",
+  "primary_kw": "home loan brokers brisbane",
+  "intended_url": "http://home-loan-brokers-brisbane-3bda19077c7429d075639fe86dcc5e7dea03.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "31735c01c0db963f",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/home-loan-brokers-brisbane/",
+      "anchor": "home loan brokers brisbane",
+      "rel": "follow"
+    }
+  ]
+}
